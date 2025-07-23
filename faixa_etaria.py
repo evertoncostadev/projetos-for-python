@@ -22,6 +22,5 @@ def classificar_faixas_etarias(quantidade):
     if adolescentes: print(f'{adolescentes} adolescente(s).')
     if adultos: print(f'{adultos} adulto(s).')
     if idosos: print(f'{idosos} idoso(s).')
-
-# Exemplo de uso:
+        
 classificar_faixas_etarias(7)
