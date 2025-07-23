@@ -1,5 +1,6 @@
-'''#Script: faixa_etaria.py
-##Descrição:
+'''
+Script: faixa_etaria.py
+Descrição:
     Este programa solicita ao usuário a idade de 7 pessoas, uma por uma, e classifica cada uma delas em uma das seguintes faixas etárias:
         - Criança:      de 0 a 12 anos
         - Adolescente:  de 13 a 17 anos
@@ -11,11 +12,11 @@
 
     Ao final, o programa exibe a quantidade de pessoas em cada faixa etária, desde que tenha pelo menos uma em cada categoria.
 
-##Objetivo:
+Objetivo:
     Praticar as estruturas de repetição `for` e `while`, o uso de `break` para controle de fluxo, e o uso de 
     condicionais (`if`, `elif`) em Python. Também desenvolve lógica de classificação e validação de dados inseridos pelo usuário.
 
-##Como usar:
+Como usar:
     - Execute o script com Python 3.
     - Digite a idade de cada pessoa quando solicitado.
     - O programa exibirá o total de crianças, adolescentes, adultos e idosos ao final da execução.'''
