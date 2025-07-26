@@ -5,5 +5,5 @@ Este repositório contém exercícios práticos usando a estrutura de repetiçã
 ## Lista de projetos
 
 - `faixa_etaria.py` — Classifica pessoas por idade.
-
+- `verificador_senhas.py` — Verifica o nivel de seguridade das senhas dos funcionários de uma empresa.
 
